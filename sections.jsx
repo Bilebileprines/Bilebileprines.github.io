@@ -187,7 +187,7 @@ function AboutSection() {
               <div className="stat-lbl">主题项目<br/>THEMED PROJECTS</div>
             </div>
             <div>
-              <div className="stat-num">120+</div>
+              <div className="stat-num">10+</div>
               <div className="stat-lbl">日常练习<br/>DAILY SKETCHES</div>
             </div>
             <div>
@@ -911,7 +911,7 @@ function DailySection() {
           <div className="sec-num">06 / 07 — SKETCHBOOK</div>
           <div className="sec-title-row">
             <span className="sec-zh">日常练习</span>
-            <span className="sec-en">/ DAILY · 120+ SKETCHES</span>
+            <span className="sec-en">/ DAILY · 10+ SKETCHES</span>
           </div>
           <div className="sec-tagline">
             "每天画一点点，是养一只动物的方式。"
