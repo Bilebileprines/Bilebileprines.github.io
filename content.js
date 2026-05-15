@@ -44,7 +44,7 @@ const CONTENT = {
     bio_p2: "目前研究方向集中在二维角色动画、视觉前期开发与短片导演。我喜欢拼贴、Risograph 印刷、老相机的颗粒，以及任何会咯吱作响的东西。",
     stats: [
       { num: "3",    lbl_zh: "主题项目", lbl_en: "THEMED PROJECTS" },
-      { num: "120+", lbl_zh: "日常练习", lbl_en: "DAILY SKETCHES" },
+      { num: "10+",  lbl_zh: "日常练习", lbl_en: "DAILY SKETCHES" },
       { num: "2023", lbl_zh: "起始年份", lbl_en: "SINCE" }
     ]
   },

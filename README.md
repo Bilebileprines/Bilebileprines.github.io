@@ -74,7 +74,7 @@ Beijing, China · Since 2023
 | | |
 |---|---|
 | **类型 · Type** | 速写 · 墨稿 · 色彩 · 角色设计 · Gesture · Ink · Color · Character Design |
-| **数量 · Count** | 120+ 件（持续更新） |
+| **数量 · Count** | 10+ 件（持续更新） |
 | **交互 · Interaction** | 拖拽式自由画布 · Drag to rearrange on a free-positioning canvas |
 
 ---
